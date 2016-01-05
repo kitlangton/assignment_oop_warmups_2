@@ -4,5 +4,35 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
+<=>	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/tweeter.rb	/^  def <=>(other_tweeter)$/;"	f	class:Tweeter
 Array	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/deep_dup.rb	/^class Array$/;"	c
+Board	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/mastermind.rb	/^class Board$/;"	c
+Code	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/mastermind.rb	/^class Code$/;"	c
+Game	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/mastermind.rb	/^class Game$/;"	c
+MyEnumerable	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/tweeter.rb	/^module MyEnumerable$/;"	m
+Peg	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/mastermind.rb	/^class Peg$/;"	c
+Tweeter	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/tweeter.rb	/^class Tweeter$/;"	c
+add_peg	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/mastermind.rb	/^  def add_peg(peg)$/;"	f	class:Code
+blue	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/mastermind.rb	/^  def self.blue$/;"	F	class:Peg
 deep_dup	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/deep_dup.rb	/^  def deep_dup$/;"	f	class:Array
+each	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/tweeter.rb	/^  def each$/;"	f	class:Tweeter
+full?	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/mastermind.rb	/^  def full?$/;"	f	class:Code
+generate_solution	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/mastermind.rb	/^  def generate_solution$/;"	f	class:Board
+green	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/mastermind.rb	/^  def self.green$/;"	F	class:Peg
+initialize	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/mastermind.rb	/^  def initialize$/;"	f	class:Board
+initialize	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/mastermind.rb	/^  def initialize$/;"	f	class:Code
+initialize	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/mastermind.rb	/^  def initialize$/;"	f	class:Game
+initialize	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/mastermind.rb	/^  def initialize(display)$/;"	f	class:Peg
+initialize	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/tweeter.rb	/^  def initialize$/;"	f	class:Tweeter
+length	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/tweeter.rb	/^  def length$/;"	f	class:Tweeter
+map	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/tweeter.rb	/^  def map$/;"	f	class:MyEnumerable
+map	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/tweeter.rb	/^  def map$/;"	f	class:Tweeter
+orange	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/mastermind.rb	/^  def self.orange$/;"	F	class:Peg
+play	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/mastermind.rb	/^  def play$/;"	f	class:Game
+purple	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/mastermind.rb	/^  def self.purple$/;"	F	class:Peg
+random	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/mastermind.rb	/^  def self.random$/;"	F	class:Code
+random_peg	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/mastermind.rb	/^  def random_peg$/;"	f	class:Board
+red	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/mastermind.rb	/^  def self.red$/;"	F	class:Peg
+to_s	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/mastermind.rb	/^  def to_s$/;"	f	class:Peg
+tweet	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/tweeter.rb	/^  def tweet(message)$/;"	f	class:Tweeter
+yellow	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/mastermind.rb	/^  def self.yellow$/;"	F	class:Peg

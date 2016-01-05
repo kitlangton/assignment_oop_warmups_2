@@ -1,5 +1,4 @@
 # class TicTacToe
-#   self.new
 #   play
 #   check_game_over
 #   check_victory
@@ -8,27 +7,25 @@
 # end
 
 # class Player
-#   self.new
 #   name
 #   piece
-#   name=
-#   piece=
+#   name=(new_value)
+#   piece=(new_value)
 #   get_coordinates
 #   ask_for_coordinates
-#   validate_cordinates_format
+#   validate_cordinates_format(coords)
 # end
 
 # class Board
-#   self.new
 #   render
-#   add_piece
-#   piece_location_valid?
-#   within_valid_coordinates?
-#   coordinates_available?
-#   winning_combination?
-#   winning_diagonal?
-#   winning_vertical?
-#   winner_horizontal?
+#   add_piece(coords, piece)
+#   piece_location_valid?(coords)
+#   within_valid_coordinates?(coords)
+#   coordinates_available?(coords)
+#   winning_combination?(piece)
+#   winning_diagonal?(piece)
+#   winning_vertical?(piece)
+#   winner_horizontal?(piece)
 #   diagonals
 #   verticals
 #   horizontals
