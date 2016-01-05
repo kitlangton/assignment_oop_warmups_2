@@ -4,3 +4,5 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
+Array	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/deep_dup.rb	/^class Array$/;"	c
+deep_dup	/Users/kitlangton/Viking/Unit3/assignment_oop_warmups_2/deep_dup.rb	/^  def deep_dup$/;"	f	class:Array
